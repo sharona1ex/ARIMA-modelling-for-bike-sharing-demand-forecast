@@ -27,8 +27,7 @@ View these Tableau charts to get a feel of the data,
 ## Observations
 1. This series has trend.
 2. It has seasonality. (You can see a peak at both year's July's)
-3. There are no outliers as per boxplot, but the series is noisy.
-4. The variance is increasing.
+3. The variance is increasing.
 
 **Checkout my Jupyter notebook on how I modelled ARIMA around this dataset.**
 
