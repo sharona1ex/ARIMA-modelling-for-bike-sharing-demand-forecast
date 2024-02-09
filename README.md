@@ -29,7 +29,7 @@ View these Tableau charts to get a feel of the data,
 2. It has seasonality. (You can see a peak at both year's July's)
 3. The variance is increasing.
 
-**Checkout my Jupyter notebook on how I modelled ARIMA around this dataset.**
+**Checkout my [Jupyter notebook](https://github.com/StarRider/ARIMA-modelling-for-bike-sharing-demand-forecast/blob/main/ARIMA%20modelling.ipynb) on how I modelled ARIMA around this dataset.**
 
 
 
